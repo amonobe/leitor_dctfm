@@ -1,7 +1,7 @@
 [package]
-name = "leitor"
+name = "leitor_dctfm"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-fstools = {path = "../fstools"}
+fstools = {path = "../libDCTFM"}

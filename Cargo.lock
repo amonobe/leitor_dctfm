@@ -3,12 +3,12 @@
 version = 3
 
 [[package]]
-name = "fstools"
+name = "libDCTFM"
 version = "0.1.0"
 
 [[package]]
-name = "leitor"
+name = "leitor_dctfm"
 version = "0.1.0"
 dependencies = [
- "fstools",
+ "libDCTFM",
 ]
