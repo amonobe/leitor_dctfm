@@ -1,0 +1,5 @@
+ICMSIPI: /home/amonobe/Programas/REVIO/sqlscripts/Content/System/00 TAB BUILD/01 LEIAUTE/00 SPED /01 ICMSIPI/atual
+PISCOFINS: /home/amonobe/Programas/REVIO/sqlscripts/Content/System/00 TAB BUILD/01 LEIAUTE/00 SPED /02 PISCOFINS/atual
+ECD: /home/amonobe/Programas/REVIO/sqlscripts/Content/System/00 TAB BUILD/01 LEIAUTE/00 SPED /03 ECD/atual
+ECF: /home/amonobe/Programas/REVIO/sqlscripts/Content/System/00 TAB BUILD/01 LEIAUTE/00 SPED /04 ECF/autal
+DRST: /home/amonobe/Programas/REVIO/sqlscripts/Content/System/00 TAB BUILD/01 LEIAUTE/00 SPED /05 DRST/atual
