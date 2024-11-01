@@ -1,1 +1,3 @@
-/target/
+# Diretorios dos arquivos relativos a arquivos e pastas de desenvolvimento
+.target/
+.idea/
