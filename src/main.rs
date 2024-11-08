@@ -1,4 +1,4 @@
-use libDCTFM::ClassesDCTFM::{processar_linhas, identificar_registro, processar_registro, obter_campo};
+use libDCTFM::ClassesDCTFM::{DeclaracaoDCTFM, processar_linhas};
 
 
 fn main() {
@@ -53,7 +53,10 @@ R9SUPERMERCADO IWAMOTO LTDA                                                     
 
 let mut linhas = exemplo_dctf.lines();
 
-processar_linhas(linhas);
 
+let declaracao_teste = DeclaracaoDCTFM::desserializar(processar_linhas(linhas));
+
+
+dbg!(declaracao_teste);
     
 }
